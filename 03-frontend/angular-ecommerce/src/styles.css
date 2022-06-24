@@ -522,9 +522,9 @@ input.au-input.au-input-xl{
  * Products List
  * ----------------------------
  */
-
 .product-box img {
     width: 150px;
+    
 }
 
 .items select {
@@ -721,6 +721,9 @@ table.table.table-bordered th{
 }
 .detail-section{
     margin-top:60px
+}
+.detail-img{
+    width: 30%;
 }
 /**/
 
